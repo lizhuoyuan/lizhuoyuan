@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 -->
 
-[Buy mea coffee](https://www.buymeacoffee.com/zhuoyuanL)
-
+[Buy me a coffee](https://www.buymeacoffee.com/zhuoyuanL)
 
 [爱发电](https://afdian.com/a/zy124)
 
