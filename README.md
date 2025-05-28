@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 -->
 
-[爱发电]https://afdian.com/a/zy124
+
 <p align="center">
 <a href="https://afdian.com/a/zy124" target="_blank"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="zy0124"></a>
 </p>
