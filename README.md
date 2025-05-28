@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/NiGuangOwO/count.svg" alt="lizhuoyuan :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/lizhuoyuan/count.svg" alt="lizhuoyuan :: Visitor's Count" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
-
-[![lizhuoyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizhuoyuan)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lizhuoyuan&show_icons=true&theme=synthwave" alt="lizhuoyuan :: Profile Stats" /></p>
 
