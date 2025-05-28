@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lizhuoyuan&show_icons=true&theme=synthwave" alt="lizhuoyuan :: Profile Stats" /></p>
+
 -->
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=OpenFlutter&show_icons=true&theme=synthwave" alt="OpenFlutter :: Profile Stats" /></p>
 
 ---
