@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 
 -->
 
+<a href="https://afdian.com/a/zy0124"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a>
+
 [Buy me a coffee](https://www.buymeacoffee.com/zhuoyuanL)
-
-
-
-<a href="https://afdian.com/a/zy0124">< img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a>
-
----
