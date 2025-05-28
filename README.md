@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 -->
 
+<p align="center">
 <a href="https://afdian.com/a/zy0124"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a>
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="zhuoyuanL" data-color="#40DCA5" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
-
-<a href="https://www.buymeacoffee.com/zhuoyuanL" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-[Buy me a coffee](https://www.buymeacoffee.com/zhuoyuanL)
+</p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/zhuoyuanL" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
+</p>
