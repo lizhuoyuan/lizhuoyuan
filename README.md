@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=openflutter&show_icons=true&theme=synthwave" alt="lizhuoyuan :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=OpenFlutter&show_icons=true&theme=synthwave" alt="lizhuoyuan :: Profile Stats" /></p>
 
 ---
