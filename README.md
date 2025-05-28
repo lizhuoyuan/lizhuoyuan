@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 
 [爱发电](https://afdian.com/a/zy124)
 
+<a href="https://afdian.com/a/zy0124">< img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a>
+
 ---
