@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lizhuoyuan&show_icons=true&theme=synthwave" alt="lizhuoyuan :: Profile Stats" /></p>
 
 ---
